@@ -1,2 +1,1 @@
-The data can be obtained via the [Bank of Italy website](https://www.bancaditalia.it/statistiche/tematiche/indagini-famiglie-imprese/bilanci-famiglie/distribuzione-microdati/index.html?com.dotmarketing.htmlpage.language=1),
-by clicking on `Historical Database (all waves) - ASCII`. The required file is `comp.csv`.
+Access to the data can be requested at https://doi.org/10.3886/ICPSR09681.v5.
